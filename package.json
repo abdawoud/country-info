@@ -1,21 +1,14 @@
 {
   "author": "AbdAllah Dawoud",
-  "name": "countryinfo",
+  "name": "country-info",
   "description": "Gets country information such as dial number, 2 letters ISO, 3 letters ISO, and more (in the future)",
   "version": "0.1.0",
   "repository": {
     "url": ""
   },
-  "main": "./lib/uppercaseme",
-  "keywords": [
-    "upper",
-    "case",
-    "file"
-  ],
-  "bin": {
-    "uppercaseme": "./bin/uppercaseme"
-  },
-  "dependencies": {},
+  "dependencies": {
+
+    },
   "engines": {
     "node": "*"
   }
